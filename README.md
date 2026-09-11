@@ -127,26 +127,28 @@ Packages : `ma.projet`, `ma.projet.bean`
 
 ```
 TP6_Polymorphisme/
-├── src/
-│   ├── com/example/tp/
-│   │   ├── Forme.java
-│   │   ├── Cercle.java
-│   │   ├── Rectangle.java
-│   │   ├── Triangle.java
-│   │   ├── Media.java
-│   │   ├── Audio.java
-│   │   ├── Video.java
-│   │   ├── LiveStream.java
-│   │   ├── MediaLibrary.java
-│   │   └── Main.java
-│   ├── ma/projet/
-│   │   ├── Personne.java
-│   │   ├── Utils.java
-│   │   └── TestPersonnes.java
-│   └── ma/projet/bean/
-│       ├── Developpeur.java
-│       └── Manager.java
-├── README.md
+└── src/
+    ├── ex1_formes/
+    │   ├── Forme.java
+    │   ├── Cercle.java
+    │   ├── Rectangle.java
+    │   ├── Triangle.java
+    │   └── Main.java
+    │
+    ├── ex2_multimedia/
+    │   ├── Media.java
+    │   ├── Audio.java
+    │   ├── Video.java
+    │   ├── LiveStream.java
+    │   ├── MediaLibrary.java
+    │   └── Main.java
+    │
+    └── ex3_entreprise/
+        ├── Personne.java
+        ├── Developpeur.java
+        ├── Manager.java
+        ├── Utils.java
+        └── Main.java
 └── videos/
     └── demo.mp4
 ```
