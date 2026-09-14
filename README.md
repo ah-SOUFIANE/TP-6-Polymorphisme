@@ -165,7 +165,7 @@ TP6_Polymorphisme/
 
 Une seule vidéo montre l'exécution des 3 exercices, dans l'ordre.
 
-[Voir la démo vidéo](videos/demo.mp4)
+https://github.com/user-attachments/assets/21558271-b3e1-462b-8a90-811c264f8e0c
 
 ## Auteur
 
